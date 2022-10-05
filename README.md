@@ -64,8 +64,7 @@
 
 ​		:one: . :two: Siq_Rig                      : Projeto em conjunto para prática do github de forma empresarial     
 
-
-
+​	
 
 ​	:two: Studies                                  : Repositório de Anotações, Estudos, Exercícios e Prática das linguagens de programação que tenho me aperfeiçoado; 
 
@@ -90,4 +89,6 @@
 <!--
 **brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
 
-# Bruno G. Siqueira.
+#Vai_Corinthians
+
+# Bruno G. Siqueira. 
