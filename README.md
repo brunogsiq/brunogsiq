@@ -1,9 +1,8 @@
-# 📘 📖 Olá, Seja bem vindo ao meu GitHub.  📑 📚 <br>
+# 📘 📖 Olá, Seja bem vindo, Eu sou o Bruno Siqueira.  📑 📚 <br>
 
+## 🐜🐛🐞☕🤓💻🔎🐜🐛🐞<br>
 
-
-## Eu sou o Bruno Siqueira. <br>
-## 🐜🐛🐞☕🤓💻🔎🐜🐛🐞 -  "...Uma mente criativa em expansão..." <br><br><br>
+## "...Uma mente criativa em expansão..." <br><br>
 
 <p align="left">
 :link: <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-siqueira-1910/"/>
