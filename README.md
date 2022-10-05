@@ -66,6 +66,7 @@
 
 
 
+
 ​	:two: Studies                                  : Repositório de Anotações, Estudos, Exercícios e Prática das linguagens de programação que tenho me aperfeiçoado; 
 
 ​		:two: . A: C 
