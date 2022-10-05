@@ -2,17 +2,17 @@
 
 
 
-## ☕ Eu sou o Bruno Siqueira. ☕🤓💻 <br>
-
+## Eu sou o Bruno Siqueira. <br>
+## ☕🤓💻🔎🐜🐛🐞 <br>
 
 
 ### "...Uma mente criativa em expansão..." <br>
 
 
 
-:fast_forward: Perfil do Linkedin - ☕🤓💻  (Linkedin) = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910
+:link: :fast_forward: Perfil do Linkedin - (Linkedin) = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910
 
-:fast_forward: Perfiil do Linktree - :file_folder: :page_facing_up:       (Linktree)  = 👨‍🎓 = https://linktr.ee/brunogsiq<br>
+:link: :fast_forward: Perfiil do Linktree - :file_folder: :page_facing_up:       (Linktree)  = 👨‍🎓 = https://linktr.ee/brunogsiq<br>
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-# :fire::ghost: Meus Repositórios estão divididos em: :fire:
+# :fire::ghost: Meus Repositórios estão divididos em: 👻:fire:
 
 ​	:one: Inventions_Projects_Tests : Repositório de Invenções, Projetos e Testes criativos para pratica e evolução do conhecimento;
 
@@ -88,7 +88,8 @@
 ​
 <br><br><br>
 
-### Bruno G. Siqueira ☕🤓💻 <br>
+## Bruno G. Siqueira <br>
+### ☕🤓💻🔎🐜🐛🐞<br>
 #### Vai_Corinthians.  <br>
 <!--
 **brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
