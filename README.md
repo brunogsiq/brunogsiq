@@ -7,7 +7,7 @@
 <p align="left">
 :link: <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-siqueira-1910/"/>
 :link: <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/bruno_gsiq"/>
-:link: <img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://www.instagram.com/bruno_gsiq](https://linktr.ee/brunogsiq)"/>  
+:link: <img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://linktr.ee/brunogsiq]"/>  
 </p>
 <br><br>
 
