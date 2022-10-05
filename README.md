@@ -86,11 +86,10 @@
 ​	
 ​	
 ​
+<br><br><br>
 
-### Vai_Corinthians.  <br>
-​	
-#### Bruno G. Siqueira ☕🤓💻 <br>
-
+### Bruno G. Siqueira ☕🤓💻 <br>
+#### Vai_Corinthians.  <br>
 <!--
 **brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
 
