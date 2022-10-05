@@ -3,48 +3,36 @@
 
 
 ## Eu sou o Bruno Siqueira. <br>
-## ☕🤓💻🔎🐜🐛🐞 <br>
+## 🐜🐛🐞☕🤓💻🔎🐜🐛🐞 -  "...Uma mente criativa em expansão..." <br><br><br>
 
-
-### "...Uma mente criativa em expansão..." <br>
-
-
-
-:link: :fast_forward: Perfil do Linkedin - (Linkedin) = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910
-
-:link: :fast_forward: Perfiil do Linktree - :file_folder: :page_facing_up:       (Linktree)  = 👨‍🎓 = https://linktr.ee/brunogsiq<br>
-
-
+<p align="left">
+:link: <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-siqueira-1910/"/>
+:link: <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/bruno_gsiq"/>
+:link: <img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://www.instagram.com/bruno_gsiq](https://linktr.ee/brunogsiq)"/>  
+</p>
+<br><br>
 
 ➡️ Conheça-me um pouco... ⬅️
 
 <details>
   <sumary> 
-+ litoral, Santos - SP : ☑️ <br>      
-+ Estudo Análise e Desenvolvimento de Sistemas : ☑️ <br>
-+ Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office) : ☑️ <br>
-+ Estudando automatização em Robot framwork e Cypress : ☑️ <br>
-+ Criativo e com Enorme capacidade de aprendizagem: ☑️ <br>
-+ Gostou de mim (1) ?!?! ➡️  <br>     
-+ Gostou de mim (2) ?!?! ➡️ Envie ➡️ 📩 : brunogsiq@gmail.com <br>
+🇧🇷🏠 litoral, Santos - SP : ☑️ <br>      
+👨‍🎓📖 Estudo Análise e Desenvolvimento de Sistemas : ☑️ <br>
+🔎🐞 Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office) : ☑️ <br>
+🤖📔 Estudando automatização em Robot framwork e Cypress : ☑️ <br>
++ Criativo e com Enorme capacidade de aprendizagem: ☑️ <br><br><br>
+     
++ 📩 Serious_Contact ➡️ : brunogsiq@gmail.com <br>
++ 📩 Free_lancer_Contact ➡️ : brunogsiq_freelancer@gmail.com<br><br><br>
++ Quer ver meus 7 Gatos?! (Instagram) = <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/bruno_gsiq"/>     
   </sumary>
 </details>
 
-
-
-➡️ Conheça-me um pouco mais... ⬅️ 
-
-<details>
-  <sumary> 
-  (Instagram) = https://www.instagram.com/bruno_gsiq <br>
-  </sumary>
-</details>
-
-
+<br><br>
 
 ![Bruno G. Siqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=highcontrast)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
 
 
@@ -89,8 +77,10 @@
 <br><br><br>
 
 ## Bruno G. Siqueira <br>
-### ☕🤓💻🔎🐜🐛🐞<br>
-#### Vai_Corinthians.  <br>
+### 🐜🐛🐞☕🤓💻🔎🐜🐛🐞<br>
+#### Vai_Corinthians.  <br><br><br>
+
+<br>
 <!--
 **brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
 
