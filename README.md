@@ -75,7 +75,7 @@
 ​
 <br><br><br>
 
-## Bruno G. Siqueira <br>
+## Bruno G. Siqueira. <br>
 ### 🐜🐛🐞☕🤓💻🔎🐜🐛🐞<br>
 #### Vai_Corinthians.  <br><br><br>
 
