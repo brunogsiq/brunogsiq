@@ -2,7 +2,7 @@
 
 
 
-## ☕ Eu sou o Bruno Siqueira. 💻 <br>
+## ☕ Eu sou o Bruno Siqueira. ☕🤓💻 <br>
 
 
 
@@ -83,12 +83,14 @@
 ​	
 
 ​	:three: BrunoGSiq                             : Repositório de apresentação pessoal, será atualizado quando necessário;
+​	
+​	
+​
 
-
+### Vai_Corinthians.  <br>
+​	
+#### Bruno G. Siqueira ☕🤓💻 <br>
 
 <!--
 **brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
 
-​	Vai_Corinthians
-
-​	Bruno G. Siqueira. 
