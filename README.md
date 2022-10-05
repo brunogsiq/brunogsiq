@@ -20,10 +20,10 @@
 
 <details>
   <sumary> 
-+ Atualmente morando no litoral, Santos - SP : ☑️ <br>      
++ litoral, Santos - SP : ☑️ <br>      
 + Estudo Análise e Desenvolvimento de Sistemas : ☑️ <br>
-+ Estagiário no time de Q.A. da Muralis Tecnologia - (Home Office) : ☑️ <br>
-+ Estudo Python aos finais de semana : ☑️ <br>
++ Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office) : ☑️ <br>
++ Estudando automatização em Robot framwork e Cypress : ☑️ <br>
 + Criativo e com Enorme capacidade de aprendizagem: ☑️ <br>
 + Gostou de mim (1) ?!?! ➡️  <br>     
 + Gostou de mim (2) ?!?! ➡️ Envie ➡️ 📩 : brunogsiq@gmail.com <br>
@@ -82,11 +82,11 @@
 
 ​	
 
-​	:three: BrunoGSiqueira                  : Repositório de apresentação pessoal, será atualizado quando necessário;
+​	:three: BrunoGSiq                             : Repositório de apresentação pessoal, será atualizado quando necessário;
 
 
 
 <!--
 **brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
 
-# BrunoGSiqueira.
+# Bruno G. Siqueira.
