@@ -1,6 +1,6 @@
 # 📘 📖 Olá, Seja bem vindo, Eu sou o Bruno Siqueira.  📑 📚 <br>
 
-<p align="center"> :bee 🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br>
+<p align="center">🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br>
 
 ## "...Uma mente criativa em expansão..." <br><br>
 
