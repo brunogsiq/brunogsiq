@@ -1,13 +1,14 @@
 # 📘 📖 Olá, Seja bem vindo, Eu sou o Bruno Siqueira.  📑 📚 <br>
 
-## 🐜🐛🐞☕🤓💻🔎🐜🐛🐞<br>
+<p align="center">🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br>
 
-## "...Uma mente criativa em expansão..." <br><br>
+<p align="right">"...Uma mente criativa em expansão..." <br><br>
 
 <p align="left">
 :link: <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-siqueira-1910/"/>
+:link: <img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://github.com/brunogsiq/brunogsiq.github.io]"/> 
+:link: <img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://linktr.ee/brunogsiq]"/>
 :link: <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/bruno_gsiq"/>
-:link: <img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://www.instagram.com/bruno_gsiq](https://linktr.ee/brunogsiq)"/>  
 </p>
 <br><br>
 
@@ -75,11 +76,10 @@
 ​
 <br><br><br>
 
-## Bruno G. Siqueira. <br>
-### 🐜🐛🐞☕🤓💻🔎🐜🐛🐞<br>
-#### Vai_Corinthians.  <br><br><br>
-
-<br>
+<p align="right">Bruno G. Siqueira. <br>
+<p align="right">#Vai_Corinthians.  <br>
+<p align="right">🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br><br
+<br><br>
 <!--
 **brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
 
