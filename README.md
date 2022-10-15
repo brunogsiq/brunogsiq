@@ -80,6 +80,9 @@
 <p align="right">#Vai_Corinthians.  <br>
 <p align="right">🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br><br
 <br><br>
+![Bruno G  Siqueira - CF 1](https://user-images.githubusercontent.com/115048441/195965604-efde05cd-4515-4df7-a20f-926742bfd959.png)
+![BrunoGSiq](https://user-images.githubusercontent.com/115048441/195965619-4975b00d-3ddf-4afd-8d45-ccac7173b847.png)
+
 <!--
 **brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
 
