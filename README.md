@@ -2,7 +2,7 @@
 
 <p align="center">🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br>
 
-## "...Uma mente criativa em expansão..." <br><br>
+<p align="right">"...Uma mente criativa em expansão..." <br><br>
 
 <p align="left">
 :link: <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-siqueira-1910/"/>
@@ -76,11 +76,10 @@
 ​
 <br><br><br>
 
-## Bruno G. Siqueira. <br>
-### 🐜🐛🐞☕🤓💻🔎🐜🐛🐞<br>
-#### Vai_Corinthians.  <br><br><br>
-
-<br>
+<p align="right">Bruno G. Siqueira. <br>
+<p align="right">#Vai_Corinthians.  <br>
+<p align="right">🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br><br
+<br><br>
 <!--
 **brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
 
