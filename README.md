@@ -16,12 +16,11 @@
 
 <details>
   <sumary> 
-  🇧🇷🏠 litoral, Santos - SP : ☑️ <br>      
-  👨‍🎓📖 Estudo Análise e Desenvolvimento de Sistemas : ☑️ <br>
-  🔎🐞 Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office) : ☑️ <br>
-  🤖📔 Estudando automatização em Robot framwork e Cypress : ☑️ <br>
-  + Criativo e com Enorme capacidade de aprendizagem: ☑️ <br>
-  + 📩 Serious_Contact ➡️ : brunogsiq@gmail.com <br>
+  🏠 litoral, Santos - SP :                                                ☑️ <br>      
+  📖 Estudo Análise e Desenvolvimento de Sistemas :                        ☑️ <br>
+  🐞 Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office) : ☑️ <br>
+  🤖 Estudando automatização em Robot framwork e Cypress :                 ☑️ <br>
+  📩 Serious_Contact : brunogsiq@gmail.com                                 ☑️ <br>
   </sumary>
 </details>
 <br><br>
