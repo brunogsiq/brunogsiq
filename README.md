@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/brunogsiq/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/brunogsiq/"/>
 <a href="https://github.com/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://github.com/brunogsiq/brunogsiq.github.io]"/> 
 <a href="https://linktr.ee/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://linktr.ee/brunogsiq]"/>
-<a href="https://www.instagram.com/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/bruno_gsiq"/>
+<a href="https://www.instagram.com/bruno_gsiq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/bruno_gsiq"/>
 </p>
 <br><br>
 
