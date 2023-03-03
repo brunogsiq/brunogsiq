@@ -16,15 +16,12 @@
 
 <details>
   <sumary> 
-🇧🇷🏠 litoral, Santos - SP : ☑️ <br>      
-👨‍🎓📖 Estudo Análise e Desenvolvimento de Sistemas : ☑️ <br>
-🔎🐞 Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office) : ☑️ <br>
-🤖📔 Estudando automatização em Robot framwork e Cypress : ☑️ <br>
-+ Criativo e com Enorme capacidade de aprendizagem: ☑️ <br>
-     
-+ 📩 Serious_Contact ➡️ : brunogsiq@gmail.com <br>
-+ 📩 Free_lancer_Contact ➡️ : brunogsiq_freelancer@gmail.com<br>
-+ Quer ver meus 7 Gatos?! ➡️ : (Instagram)
+  🇧🇷🏠 litoral, Santos - SP : ☑️ <br>      
+  👨‍🎓📖 Estudo Análise e Desenvolvimento de Sistemas : ☑️ <br>
+  🔎🐞 Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office) : ☑️ <br>
+  🤖📔 Estudando automatização em Robot framwork e Cypress : ☑️ <br>
+  + Criativo e com Enorme capacidade de aprendizagem: ☑️ <br>
+  + 📩 Serious_Contact ➡️ : brunogsiq@gmail.com <br>
   </sumary>
 </details>
 <br><br>
@@ -40,8 +37,8 @@
 <br><br>
 <div align="center">
   <a href="https://github.com/brunogsiq">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div><br><br>
   
 ## <p align="center">:fire::ghost: Meus Repositórios estão divididos em: 👻:fire: </p>
