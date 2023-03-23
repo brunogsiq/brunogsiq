@@ -1,15 +1,15 @@
 # 📘 📖 Olá, Seja bem vindo, Eu sou o Bruno Siqueira.  📑 📚 <br>
 
-### <p align="center">Sou analista de Qualidade e Testes, em constante evolução.
+### <p align="center">Sou ser Humano Analista de Qualidade e Testes em constante evolução.
 
-### <p align="center">O intuito deste é compartilhar projetos, estudo, e lhe ajudar,
+### <p align="center">O intuito deste é compartilhar projetos, estudo e lhe ajudar,
 ### <p align="center">assim, com a descrição dos projetos e conteúdos dos arquivos espero deixar
-### <p align="center">bem mastigadinho para agregar ao seu conhecimento.
+### <p align="center">bem mastigadinho para agregar ao seu conhecimento caso decida clonar algo.
   
 
 ### <p align="center">🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br>
 
-### <p align="center">"...Uma mente criativa em expansão..." <br><br>
+### <p align="center">"...Mente criativa em expansão...Sempre." <br><br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/brunogsiq/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/brunogsiq/"/>
