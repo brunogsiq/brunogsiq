@@ -2,7 +2,7 @@
 
 ### <p align="center">Sou analista de Qualidade e Testes, em constante evolução.
 
-### <p align="center"O intuito deste é compartilhar projetos, estudo, e lhe ajudar,
+### <p align="center">O intuito deste é compartilhar projetos, estudo, e lhe ajudar,
 ### <p align="center">assim, com a descrição dos projetos e conteúdos dos arquivos espero deixar
 ### <p align="center">bem mastigadinho para agregar ao seu conhecimento.
   
