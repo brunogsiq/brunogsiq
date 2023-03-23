@@ -1,5 +1,12 @@
 # 📘 📖 Olá, Seja bem vindo, Eu sou o Bruno Siqueira.  📑 📚 <br>
 
+### <p align="center">Sou analista de Qualidade e Testes, em constante evolução.
+
+### <p align="center"O intuito deste é compartilhar projetos, estudo, e lhe ajudar,
+### <p align="center">assim, com a descrição dos projetos e conteúdos dos arquivos espero deixar
+### <p align="center">bem mastigadinho para agregar ao seu conhecimento.
+  
+
 ### <p align="center">🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br>
 
 ### <p align="center">"...Uma mente criativa em expansão..." <br><br>
@@ -10,20 +17,6 @@
 <a href="https://linktr.ee/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://linktr.ee/brunogsiq]"/>
 <a href="https://www.instagram.com/bruno_gsiq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/bruno_gsiq"/>
 </p>
-<br><br>
-
-➡️ Conheça-me um pouco... ⬅️
-
-<details>
-  <sumary> 
-  🏠 litoral, Santos - SP :                                                ☑️ <br>      
-  📖 Estudo Análise e Desenvolvimento de Sistemas :                        ☑️ <br>
-  🐞 Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office) : ☑️ <br>
-  🤖 Estudando automatização em Robot framwork e Cypress :                 ☑️ <br>
-  📩 Serious_Contact : brunogsiq@gmail.com                                 ☑️ <br>
-  </sumary>
-</details>
-<br><br>
 <div align="center"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -39,6 +32,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div><br><br>
+  
+ <br><br>
+
+➡️ Conheça-me um pouco... ⬅️
+
+<details>
+  <sumary> 
+  🏠 litoral, Santos - SP :                                                ☑️ <br>      
+  📖 Estudo Análise e Desenvolvimento de Sistemas :                        ☑️ <br>
+  🐞 Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office) : ☑️ <br>
+  🤖 Estudando automatização em Robot framwork e Cypress :                 ☑️ <br>
+  📩 Serious_Contact : brunogsiq@gmail.com                                 ☑️ <br>
+  </sumary>
+</details>
+<br><br>
   
 ## <p align="center">:fire::ghost: Meus Repositórios estão divididos em: 👻:fire: </p>
 <br>
