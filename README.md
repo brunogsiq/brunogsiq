@@ -1,6 +1,6 @@
 # 📘 📖 Olá, Seja bem vindo, Eu sou o Bruno Siqueira.  📑 📚 <br>
 
-### <p align="center">Sou ser Humano Analista de Qualidade e Testes em constante evolução.
+### <p align="center">Sou ser um Humano Analista de Qualidade e Testes em constante evolução.
 
 ### <p align="center">O intuito deste é compartilhar projetos, estudo e lhe ajudar,
 ### <p align="center">assim, com a descrição dos projetos e conteúdos dos arquivos espero deixar
