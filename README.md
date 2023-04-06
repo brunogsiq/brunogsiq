@@ -52,10 +52,10 @@
 :four: Dev_Life_Of_Development : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática das linguagens de programação que tenho me aperfeiçoado;<br><br>
 :five: Wik_Creative : ​	​	Construção da Wiki Própria e Rápido Acesso do Conhecimento Adquirido;<br><br>
 
-<br><br><br>
-
+<br><br>
+<div align="right">
 ➡️ Conheça-me um pouco... ⬅️
-
+<div align="right">
 <details>
   <sumary> 
   🏠 Localidade: litoral, SP                                               ☑️ <br>      
