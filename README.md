@@ -1,4 +1,4 @@
-# 📘 📖 Olá, Seja bem vindo, Eu sou o Bruno Siqueira.  📑 📚 <br>
+# 📘📖 Olá, Seja bem vindo, Eu sou o Bruno Siqueira. 📑📚 <br>
 
 ### <p align="center">Sou um ser Humano Analista de Qualidade e Testes em constante evolução.
 
@@ -40,8 +40,7 @@
   <a href="https://github.com/brunogsiq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div><br><br>
-  
+</div>  
  <br><br>
 
 ## <p align="center">:fire::ghost: Meus Repositórios estão divididos em: 👻:fire: </p>
@@ -51,8 +50,8 @@
 :three: QA_Life_Of_Testing : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática dos conceitos de qualidade e testes com automação que tenho me aperfeiçoado;<br><br>
 :four: Dev_Life_Of_Development : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática das linguagens de programação que tenho me aperfeiçoado;<br><br>
 :five: Wik_Creative : ​	​	Construção da Wiki Própria e Rápido Acesso do Conhecimento Adquirido;<br><br>
+<br>
 
-<br><br>
 <div align="right">
 ➡️ Conheça-me um pouco... ⬅️
 <div align="right">
@@ -65,7 +64,7 @@
   📩 Contato : brunogsiq@gmail.com                                         ☑️ <br>
   </sumary>    
 </details>
-<br><br>
+<br>
 
 <div align="right">
 
