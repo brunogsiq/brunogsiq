@@ -45,11 +45,11 @@
 
 ## <p align="center">:fire::ghost: Meus Repositórios estão divididos em: 👻:fire: </p>
 <br>
-:one: brunogsiq :  ​ ​ Repositório de apresentação pessoal em formato "Markdown", será atualizado quando necessário;<br><br>
-:two: brunogsiq.github.io : ​ ​	Repositório Porfolio/Blog, atualizado sempre que  necessário;<br><br>
-:three: QA_Life_Of_Testing : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática dos conceitos de qualidade e testes com automação que tenho me aperfeiçoado;<br><br>
-:four: Dev_Life_Of_Development : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática das linguagens de programação que tenho me aperfeiçoado;<br><br>
-:five: Wik_Creative : ​	​	Construção da Wiki Própria e Rápido Acesso do Conhecimento Adquirido;<br><br>
+:one: brunogsiq.github.io : ​ ​	Repositório Porfolio/Blog, atualizado sempre que  necessário;<br><br>
+:two: QA_Life_Of_Testing : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática dos conceitos de qualidade e testes com automação que tenho me aperfeiçoado;<br><br>
+:three: Dev_Life_Of_Development : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática das linguagens de programação que tenho me aperfeiçoado;<br><br>
+:four: Wik_Creative : ​	​	Construção da Wiki Própria e Rápido Acesso do Conhecimento Adquirido;<br><br>
+:five: brunogsiq :  ​ ​ Repositório de apresentação pessoal em formato "Markdown", será atualizado quando necessário;<br><br>
 <br>
 
 <div align="right">
