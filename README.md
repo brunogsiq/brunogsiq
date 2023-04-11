@@ -33,7 +33,7 @@
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="iN" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   <img align="center" alt="VsCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
-  <img align="center" alt="VsCode" height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio" />
+  <img align="center" alt="Android" height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio" />
 </div>
 <br><br>
 <div align="center">
