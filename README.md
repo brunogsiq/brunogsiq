@@ -51,7 +51,7 @@
 :four: Wik_Creative : ​	​	Construção da Wiki Própria e Rápido Acesso do Conhecimento Adquirido;<br><br>
 :five: brunogsiq :  ​ ​ Repositório de apresentação pessoal em formato "Markdown", será atualizado quando necessário;<br><br>
 :six: QA_Testing_Automation_Evidence: Repositório de código de projetos realizados para intrevistas 
-<br>
+<br><br>
 
 <div align="right">
 ➡️ Conheça-me um pouco... ⬅️
