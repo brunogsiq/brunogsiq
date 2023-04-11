@@ -45,13 +45,12 @@
 
 ## <p align="center">:fire::ghost: Meus Repositórios estão divididos em: 👻:fire: </p>
 <br>
-:one: brunogsiq.github.io : ​ ​	Repositório Porfolio/Blog, atualizado sempre que  necessário;<br><br>
-:two: QA_Life_Of_Testing : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática dos conceitos de qualidade e testes com automação que tenho me aperfeiçoado;<br><br>
-:three: Dev_Life_Of_Development : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática das linguagens de programação que tenho me aperfeiçoado;<br><br>
-:four: Wik_Creative : ​	​	Construção da Wiki Própria e Rápido Acesso do Conhecimento Adquirido;<br><br>
-:five: brunogsiq :  ​ ​ Repositório de apresentação pessoal em formato "Markdown", será atualizado quando necessário;<br><br>
-:six: QA_Testing_Automation_Evidence: Repositório de código de projetos realizados para intrevistas 
-<br><br>
+<p>:one: brunogsiq.github.io : ​ ​	Repositório Porfolio/Blog, atualizado sempre que  necessário;</p><br><br>
+<p>:two: QA_Life_Of_Testing : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática dos conceitos de qualidade e testes com automação que tenho me aperfeiçoado;</p><br><br>
+<p>:three: Dev_Life_Of_Development : ​	​	Repositório de Anotações, Estudos, Exercícios e Prática das linguagens de programação que tenho me aperfeiçoado;</p><br><br>
+<p>:four: Wik_Creative : ​	​	Construção da Wiki Própria e Rápido Acesso do Conhecimento Adquirido;</p><br><br>
+<p>:five: brunogsiq :  ​ ​ Repositório de apresentação pessoal em formato "Markdown", será atualizado quando necessário;</p><br><br>
+<p>:six: QA_Testing_Automation_Evidence: Repositório de código de projetos realizados para intrevistas</p><br><br>
 
 <div align="right">
 ➡️ Conheça-me um pouco... ⬅️
