@@ -57,7 +57,7 @@
 <div align="right">
 <details>
   <sumary> 
-  🏠 Localidade: litoral, SP                                               ☑️ <br>      
+  🏠 Localidade: litoral, SP                                               ☑️ <br>
   📖 Graduação: Superior em Tecnologia da Informação                       ☑️ <br>
   🐞 Quality Assurance Jr - Interplayers Hub de Negócios - (Home Office)   ☑️ <br>
   🤖 Foco em automação c/ Cypress :                                        ☑️ <br>
