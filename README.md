@@ -9,19 +9,18 @@
 <a href="https://github.com/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://github.com/brunogsiq/brunogsiq.github.io]"/> 
 <a href="https://linktr.ee/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://linktr.ee/brunogsiq]"/><br><br>
 
-#### <p align="left"> :pushpin: O intuito deste perfil é:
+#### <p align="left"> :pushpin: O intuito  :pushpin: 
 -  compartilhar projetos de estudos e lhe ajudar. 
 -  Fique a vontade para realizar clones e propor melhorias
 -  Toda contribuição é bem vinda. 
--  Caso Eu consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!!!
+-  Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!!!
 
-### <p align="left"> :exclamation: Conheça-me :exclamation:
-
+### <p align="left">  :pushpin:  Conheça-me
 ## :arrow_right: Analista de Qualidade e Teste de Software - Q.A. ⬅️
 
 Atuo com foco em prevenção de bugs, acreditando na transformação do mindset da equipe em prol da qualidade. **Prevenir ! > Reportar**, bora testar?! 🚀
 
-### Ferramentas e Responsabilidades:
+###  Ferramentas e Responsabilidades:
 
 - 📅 Planejamento, Estimativa, Documentação de testes
 - ✔️ Execução e Evidenciamento de testes
@@ -71,13 +70,13 @@ Atuo com foco em prevenção de bugs, acreditando na transformação do mindset 
  
 ## Ainda por aqui? PONTO para mim! 🎉 Bora continuar?!
 
-:fast_forward: O conjunto de habilidades, comunicação, criatividade, atencioso e detalhista, trouxeram-me para esta área. 
-:fast_forward: Dedico sempre um tempo para ajudar outros colegas de profissão, que estejam migrando para a área de QA. 
-:fast_forward: Isso levou-me à QAtrix Tecnologia.
-:fast_forward: Disseminar conhecimento através da cooperação mútua de aprendizado, treinamentos e possibilidades que a área nos fornece. 
-:fast_forward: Procuro auxiliar em dúvidas, indicar trilhas de conhecimento, e cooperar de forma bastante ativa no crescimento de futuros profissionais.
-:fast_forward:Conheça-nos mais e siga nossa página por favor!!! 🌐 [LinkedIn](https://www.linkedin.com/company/qatrixtecnologia)
-:fast_forward:Redes sociais que lhe espero para realizarmos mais conexões!!!
+:fast_forward: O conjunto de habilidades, comunicação, criatividade, atencioso e detalhista, trouxeram-me para esta área.<br>
+:fast_forward: Dedico sempre um tempo para ajudar outros colegas de profissão, que estejam migrando para a área de QA.<br>
+:fast_forward: Isso levou-me à QAtrix Tecnologia.<br>
+:fast_forward: Disseminar conhecimento através da cooperação mútua de aprendizado, treinamentos e possibilidades que a área nos fornece.<br>
+:fast_forward: Procuro auxiliar em dúvidas, indicar trilhas de conhecimento, e cooperar de forma bastante ativa no crescimento de futuros profissionais.<br>
+:fast_forward: Conheça-nos mais e siga nossa página por favor!!! 🌐 [LinkedIn](https://www.linkedin.com/company/qatrixtecnologia)<br>
+:fast_forward: Visite!!!<br>
 
 - 🌐 Portfólio: [Qatrix Tecnologia](https://qatrixtecnologia.github.io/) (em construção)
 - 🌐 Portfólio: [Qatrix Tecnologia](https://qatrixtecnologia.wordpress.com/) (em construção)
