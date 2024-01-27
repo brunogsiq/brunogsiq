@@ -9,14 +9,14 @@
 <a href="https://github.com/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://github.com/brunogsiq/brunogsiq.github.io]"/> 
 <a href="https://linktr.ee/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://linktr.ee/brunogsiq]"/><br><br>
 
-#### <p align="left"> :pushpin: O intuito  :pushpin: 
+## <p align="left"> :pushpin: O intuito:
 -  compartilhar projetos de estudos e lhe ajudar. 
 -  Fique a vontade para realizar clones e propor melhorias
 -  Toda contribuição é bem vinda. 
 -  Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!!!
 
-### <p align="left">  :pushpin:  Conheça-me
-## :arrow_right: Analista de Qualidade e Teste de Software - Q.A. ⬅️
+## <p align="left">  :pushpin:  Conheça-me:
+### :arrow_right: Analista de Qualidade e Teste de Software - Q.A. ⬅️
 
 Atuo com foco em prevenção de bugs, acreditando na transformação do mindset da equipe em prol da qualidade. **Prevenir ! > Reportar**, bora testar?! 🚀
 
@@ -66,7 +66,7 @@ Atuo com foco em prevenção de bugs, acreditando na transformação do mindset 
 
 ### Ferramentas p/ evidências:
 
-- 📋 Test Plans - Test & Feedback - Lightshot - Greenshot - PointFix - Screen to gif - Obs Studio - Lighthouse
+- 📋 Test Plans - Test & Feedback - Lightshot - Greenshot - PointFix - Screen to gif - Obs Studio - Lighthouse<br><br>
  
 ## Ainda por aqui? PONTO para mim! 🎉 Bora continuar?!
 
@@ -80,19 +80,17 @@ Atuo com foco em prevenção de bugs, acreditando na transformação do mindset 
 
 - 🌐 Portfólio: [Qatrix Tecnologia](https://qatrixtecnologia.github.io/) (em construção)
 - 🌐 Portfólio: [Qatrix Tecnologia](https://qatrixtecnologia.wordpress.com/) (em construção)
-- 🌐 Download de CV e conversar comigo: [Linktr.ee - brunogsiq](https://linktr.ee/brunogsiq)
+- 🌐 Conversar: [Linktr.ee - brunogsiq](https://linktr.ee/brunogsiq)
 
-Sucesso a nós, Quer outro ☕?!
+#### Sucesso a nós, Quer outro ☕?!
 
-Prazer vê-lo(a) aqui, até breve e muito obrigado! ☕🤓💻
+#### Prazer vê-lo(a) aqui, até breve e muito obrigado! ☕🤓💻
 
-</p>
-<div align="center"><br>
+<div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cypress, js, html, css, postman, git, github, c, python, linkedin, vscode, " />
     </a>
-  </p>
   <img align="center" alt="Cypress" height="40" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
   <img align="center" alt="Postman" width="40" height="40"src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
    <img align="center" alt="Android" height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio" />
@@ -105,7 +103,6 @@ Prazer vê-lo(a) aqui, até breve e muito obrigado! ☕🤓💻
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="iN" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   <img align="center" alt="VsCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
- 
 
 </div>
 <br><br>
