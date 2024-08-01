@@ -19,94 +19,120 @@
 
 ### :arrow_right: Analista de Qualidade e Teste de Software - Q.A. ⬅️
 
-Atuo com foco em prevenção de bugs, acreditando na transformação do mindset da equipe em prol da qualidade. 
+⚠️ Leia com atenção, aceita um ☕?! ⚠️
 
-**Prevenir ! > Reportar**, bora testar?! 🚀
+🐞🎯 Analista de Qualidade e Teste de Software - Q.A. 🎯🐞
 
-### Ferramentas e Responsabilidades:
+🚀 Atuando com foco em prevenção de bugs, acredito ser possível transformar o mindset de uma equipe em prol da qualidade. Prevenir !> Reportar, bora testar?! 🛠️
 
-- 📅 Planejamento, Estimativa, Documentação de testes
-- ✔️ Execução e Evidenciamento de testes
-- 📝 Escrita através de BDD
-- 🐞 Report de bugs, Gestão e Acompanhamento de correções
-- 🤝 Apoio ao P.O. para escrita do Gherkin em histórias de usuário
-- 🔄 Participação em cerimônias ágeis, incluindo apresentação da Sprint Review
-- 📈 Proposição de melhoria contínua
-- 📞 Contato com o Cliente, para avaliação de expectativas e compreensão de necessidades
+🔧 Ferramentas e Responsabilidades:
+-  🔄 Shif-Lefting Tests
+-  ✍️🤖 Testes automatizados e manuais
+-  📅 Planejamento, Estimativa, Documentação
+-  🧪 Execução e Evidenciamento
+-  ✍️ BDD - Gherkin
+-  🐞 Report, Gestão e Acompanhamento de bugs
+-  📝 Apoio ao P.O. 
+-  🌀 Participação em cerimônias ágeis
+-  🔍 Proposição de melhoria contínua
+-  🤝 Contato com o Cliente
 
-### Técnicas de Testes:
+🔬 Técnicas de Testes:
+-  📦 Teste de Caixa Branca
+-  ⚫ Teste de Caixa Preta
+-  ✅ Testes Funcionais
+-  🔍 Testes Exploratórios
+-  🔙 Testes de Regressão
+-  👁️ Testes de Usabilidade
+-  🌐 Testes de Websites
+-  📱 Teste de APK e Android
 
-- ✔️ Funcionais, Exploratórios, Regressão, Usabilidade, Partição de equivalência, Tratamento de erros e Automatizados
+🌐 Framework de Automação FronEnd:
+-  🌲 Cypress.io
+-  🥒 Cucumber
+-  🤖 Robot Framework
 
-### Framework de Automação FronEnd:
+🔙 Framework de Automação BackEnd - API:
+-  📬 Postman
+-  📄 Swagger
 
-- 🌲 Cypress Framework
-- 🤖 Robot Framework
+💻 Linguagem de Programação:
+-  📜 JavaScript - HTML - CSS - Python - C - POO
 
-### Framework de Automação BackEnd:
+🛠️ Gerenciamento de Projetos:
+-  🌐 Azure Devops - Jira - Trello
+-  📷 Test Plans - Zephyr - QAlity Plus
 
-- 📬 Postman e Thunder Client [VS Code]
+📚 Versionamento e Repositório de Códigos:
+-  🗂️ Git e Github
 
-### Linguagem de Programação, Estilo e Marcação:
+📊 Banco de Dados:
+-  💾 SQL e Mongo DB
 
-- 💻 JavaScript - HTML - CSS
+⚙️ Metodologias ágeis:
+-  🏃 Scrum Framework e Kanban
 
-### Gerenciamento de Projetos:
+📸 Ferramentas p/ evidencias:
+-  📝 Lightshot - Screepresso - PointFix - Screen to gif - Obs Studio
 
-- 🌀 Azure Devops - Jira - Trello
+👀 Ainda por aqui? então PONTO para mim, bora continuar?!
 
-### Versionamento e Repositório de Códigos:
+🎭 Soft Skill:
+-  🤝 Trabalho em equipe
+-  💬 Comunicação
+-  🎨 Criatividade
+-  🔍 Atenção aos detalhes
+-  📚 DIdático
+-  📊 Habilidades analíticas
+-  🎤 Apresentação para clientes
+-  🖥️ Habilidades de apresentação
+-  🧠 Inteligência emocional 
 
-- 🌐 Git e Github
+💡 Coopero com colegas que estejam migrando de carreira para área de QA, este motivo levou-me a QAtrix Tecnologia.
 
-### Banco de Dados:
+👥 Disseminar conhecimento através da cooperação mútua de aprendizado.
 
-- 🗃️ SQL e Mongo DB
+🔗 Conheça-nos mais e siga nossa página por favor!!!
+-  https://www.linkedin.com/company/qatrixtecnologia
+-  https://qatrixtecnologia.github.io/
 
-### Metodologias ágeis:
+🔗 Redes sociais que lhe espero para realizarmos mais conexões!!!
+-  📁 Portfólio: https://qatrixtecnologia.github.io/ (em construção)
+-  📚 Repositório de códigos e estudo: https://github.com/brunogsiq
+-  📥 Download de CV e conversar comigo: https://linktr.ee/brunogsiq
 
-- 🔄 Scrum Framework e Kanban
+♾️ “Mente criativa em expansão com foco em automação” ♾️
 
-### Ferramentas p/ evidências:
+🍀 Sucesso a nós, quer outro ☕?!
 
-- 📋 Test Plans - Test & Feedback - Lightshot - Greenshot - PointFix - Screen to gif - Obs Studio - Lighthouse<br><br>
+👋 Prazer vê-lo aqui, até breve e muito obrigado! 
 
-## Ainda por aqui? PONTO para mim! 🎉 Bora continuar?!
-
-:fast_forward: O conjunto de habilidades, comunicação, criatividade, atencioso e detalhista, trouxeram-me para esta área.<br>
-:fast_forward: Dedico sempre um tempo para ajudar outros colegas de profissão, que estejam migrando para a área de QA.<br>
-:fast_forward: Isso levou-me à QAtrix Tecnologia.<br>
-:fast_forward: Disseminar conhecimento através da cooperação mútua de aprendizado, treinamentos e possibilidades que a área nos fornece.<br>
-:fast_forward: Procuro auxiliar em dúvidas, indicar trilhas de conhecimento, atuar de forma ativa no crescimento profissional.<br>
-:fast_forward: Conheça-nos mais e siga nossa página por favor!!! 🌐 [LinkedIn](https://www.linkedin.com/company/qatrixtecnologia)<br>
-:fast_forward: Visite!!!<br>
-
-- 🌐 Portfólio: [Qatrix Tecnologia](https://qatrixtecnologia.github.io/) (em construção)
-- 🌐 Portfólio: [Qatrix Tecnologia](https://qatrixtecnologia.wordpress.com/) (em construção)
-- 🌐 Conversar: [Linktr.ee - brunogsiq](https://linktr.ee/brunogsiq)
-
-#### Sucesso a nós, Quer outro ☕?!
+☕🤓💻🔍🐞
 
 #### Prazer vê-lo(a) aqui, até breve e muito obrigado! ☕🤓💻
 
 <div align="center">
-    <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=cypress, js, html, css, postman, git, github, c, python, linkedin, vscode"/>
-        </a>
-    </p>
-    <img align="center" alt="Cypress" height="40" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
-    <img align="center" alt="Postman" width="40" height="40"src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-    <img align="center" alt="Android" height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio" />
-    <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img align="center" alt="wordpress" height="40" width="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg"/>
-    <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="iN" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    <img align="center" alt="VsCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
+    <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
+    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png"/>
+        <img align="center" src="https://skillicons.dev/icons?i=gherkin"/>
+    <img align="center" src="https://skillicons.dev/icons?i=postman"/>
+    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
+    <img align="center" src="https://skillicons.dev/icons?i=androidstudio"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=javascript"/>
+    <img align="center" src="https://skillicons.dev/icons?i=html"/>
+    <img align="center" src="https://skillicons.dev/icons?i=css"/>
+    <img align="center" src="https://skillicons.dev/icons?i=python"/>
+    <img align="center" src="https://skillicons.dev/icons?i=c"/>
+    <img align="center" src="https://skillicons.dev/icons?i=markdown"/>
+    <img align="center" src="https://skillicons.dev/icons?i=wordpress"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=azure"/>
+    <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=git"/>
+    <img align="center" src="https://skillicons.dev/icons?i=github"/>
+    <img align="center" src="https://skillicons.dev/icons?i=bitbucket"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=vscode"/>
+    <img align="center" src="https://skillicons.dev/icons?i=pycharm"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
 </div><br>
 
 <div align="center">
