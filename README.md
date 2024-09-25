@@ -114,25 +114,20 @@
 <div align="center">
     <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
     <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png"/>
-        <img align="center" src="https://skillicons.dev/icons?i=gherkin"/>
+    <img align="center" src="https://skillicons.dev/icons?i=gherkin"/>
     <img align="center" src="https://skillicons.dev/icons?i=postman"/>
-    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
-    <img align="center" src="https://skillicons.dev/icons?i=androidstudio"/><br><br>
+    <br><br>
     <img align="center" src="https://skillicons.dev/icons?i=javascript"/>
     <img align="center" src="https://skillicons.dev/icons?i=html"/>
     <img align="center" src="https://skillicons.dev/icons?i=css"/>
-    <img align="center" src="https://skillicons.dev/icons?i=python"/>
-    <img align="center" src="https://skillicons.dev/icons?i=c"/>
-    <img align="center" src="https://skillicons.dev/icons?i=markdown"/>
-    <img align="center" src="https://skillicons.dev/icons?i=wordpress"/><br><br>
-    <img align="center" src="https://skillicons.dev/icons?i=azure"/>
-    <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"/><br><br>
+    <br><br>
     <img align="center" src="https://skillicons.dev/icons?i=git"/>
     <img align="center" src="https://skillicons.dev/icons?i=github"/>
-    <img align="center" src="https://skillicons.dev/icons?i=bitbucket"/><br><br>
-    <img align="center" src="https://skillicons.dev/icons?i=vscode"/>
-    <img align="center" src="https://skillicons.dev/icons?i=pycharm"/><br><br>
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
+    <img align="center" src="https://skillicons.dev/icons?i=bitbucket"/>
+    <br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=azure"/>
+    <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"/>
+    <br><br>
 </div><br>
 
 <div align="center">
