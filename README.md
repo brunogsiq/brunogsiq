@@ -19,100 +19,86 @@
 
 ### :arrow_right: Analista de Qualidade e Teste de Software - Q.A. ⬅️
 
-⚠️ Leia com atenção, aceita um ☕?! ⚠️
+⚠️ Primeiro, aceita um ☕?!
 
-🐞🎯 Analista de Qualidade e Teste de Software - Q.A. 🎯🐞
+🐞🎯 Analista de Qualidade e Teste de Software - Q.A.
 
-🚀 Atuando com foco em prevenção de bugs, acredito ser possível transformar o mindset de uma equipe em prol da qualidade. Prevenir !> Reportar, bora testar?! 🛠️
+🚀 Atuo no foco da prevenção de bugs, é possível evangelizar uma equipe em prol da qualidade. 
 
-🔧 Ferramentas e Responsabilidades:
--  🔄 Shif-Lefting Tests
--  ✍️🤖 Testes automatizados e manuais
--  📅 Planejamento, Estimativa, Documentação
--  🧪 Execução e Evidenciamento
--  ✍️ BDD - Gherkin
--  🐞 Report, Gestão e Acompanhamento de bugs
--  📝 Apoio ao P.O. 
--  🌀 Participação em cerimônias ágeis
--  🔍 Proposição de melhoria contínua
--  🤝 Contato com o Cliente
+🛠️ Prevenir é melhor do que reportar! Bora testar?!
+
+🔧 Dia a Dia como Q.A.
+   🔄 Shif-Lefting Testes
+   🤖 Testes automatizados e manuais 
+   📅 Planejamento, Estimativa, Documentação
+   🧪 Execução e Evidenciamento
+   ✍️ Testes com BDD
+   🐞 Report e Acompanhamento de bugs
+   🔍 Proposição de melhoria contínua
 
 🔬 Técnicas de Testes:
--  📦 Teste de Caixa Branca
--  ⚫ Teste de Caixa Preta
--  ✅ Testes Funcionais
--  🔍 Testes Exploratórios
--  🔙 Testes de Regressão
--  👁️ Testes de Usabilidade
--  🌐 Testes de Websites
--  📱 Teste de APK e Android
+   ⚫ Teste de Caixa Preta
+   🔍 Testes Funcionais e Exploratórios
+   🔙 Testes de Regressão
+   👁️ Testes de Usabilidade
+   🌐 Testes Front, Back, APK 
 
-🌐 Framework de Automação FronEnd:
--  🌲 Cypress.io
--  🥒 Cucumber
--  🤖 Robot Framework
+🌐 Framework FronEnd:
+   🌲 Cypress.io
+   🎭 PlayWright
+   🥒 Cucumber
+   🤖 Robot Framework
 
-🔙 Framework de Automação BackEnd - API:
--  📬 Postman
--  📄 Swagger
+🔙 Framework BackEnd - API:
+   📬 Postman
+   📄 Swagger
 
-💻 Linguagem de Programação:
--  📜 JavaScript - HTML - CSS - Python - C - POO
+💻 Programação:
+   📜 JavaScript - HTML - CSS - Python - C - POO
 
 🛠️ Gerenciamento de Projetos:
--  🌐 Azure Devops - Jira - Trello
--  📷 Test Plans - Zephyr - QAlity Plus
+   🌐 Azure Devops - Jira - Trello
+   📷 Test Plans - Zephyr - QAlity Plus
 
-📚 Versionamento e Repositório de Códigos:
--  🗂️ Git e Github
-
-📊 Banco de Dados:
--  💾 SQL e Mongo DB
+📚 Versionamento de Códigos
 
 ⚙️ Metodologias ágeis:
--  🏃 Scrum Framework e Kanban
+   🏃 Scrum Framework e Kanban
 
-📸 Ferramentas p/ evidencias:
--  📝 Lightshot - Screepresso - PointFix - Screen to gif - Obs Studio
-
-👀 Ainda por aqui? então PONTO para mim, bora continuar?!
+👀 Chegou até aqui? PONTO para mim, continue!
 
 🎭 Soft Skill:
--  🤝 Trabalho em equipe
--  💬 Comunicação
--  🎨 Criatividade
--  🔍 Atenção aos detalhes
--  📚 DIdático
--  📊 Habilidades analíticas
--  🎤 Apresentação para clientes
--  🖥️ Habilidades de apresentação
--  🧠 Inteligência emocional 
+   🤝 Trabalho em equipe
+   💬 Comunicação assertiva
+   🎨 Criatividade e Curioso
+   🔍 Atencioso aos detalhes
+   📚 Didático, Adaptável e Pró-ativo
+   📊 Habilidades analíticas
+   🖥️ Habilidades de apresentação
+   👥 Qualidade com foco no usuário
 
-💡 Coopero com colegas que estejam migrando de carreira para área de QA, este motivo levou-me a QAtrix Tecnologia.
+👥 Contribuir e disseminar conhecimento através da cooperação mútua de aprendizado, evolução contínua coletiva, #Sempre.
 
-👥 Disseminar conhecimento através da cooperação mútua de aprendizado.
-
-🔗 Conheça-nos mais e siga nossa página por favor!!!
--  https://www.linkedin.com/company/qatrixtecnologia
--  https://qatrixtecnologia.github.io/
-
-🔗 Redes sociais que lhe espero para realizarmos mais conexões!!!
--  📁 Portfólio: https://qatrixtecnologia.github.io/ (em construção)
--  📚 Repositório de códigos e estudo: https://github.com/brunogsiq
--  📥 Download de CV e conversar comigo: https://linktr.ee/brunogsiq
+🔗 Conheça mais sobre meu trabalho
+   📁 https://qatrixtecnologia.github.io/ (em construção)
+   📚 https://github.com/brunogsiq
+   📥 https://linktr.ee/brunogsiq
 
 ♾️ “Mente criativa em expansão com foco em automação” ♾️
 
-🍀 Sucesso a nós, quer outro ☕?!
+📢 Que tal conversarmos sobre como posso agregar valor à sua empresa?
+
+🍀 Sucesso a nós!
+
+⚠️Importante, aceita outro ☕?!
 
 👋 Prazer vê-lo aqui, até breve e muito obrigado! 
 
 ☕🤓💻🔍🐞
 
-#### Prazer vê-lo(a) aqui, até breve e muito obrigado! ☕🤓💻
-
 <div align="center">
     <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
+    <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png"/>
     <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png"/>
     <img align="center" src="https://skillicons.dev/icons?i=gherkin"/>
     <img align="center" src="https://skillicons.dev/icons?i=postman"/>
