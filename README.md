@@ -1,3 +1,4 @@
+
 # <p align="center">⚠️ Bem-vindo(a) ☕🤓💻🔎 ⚠️
 
 ### <p align="center">♾️ **“Mente criativa em expansão com foco em automação”** ♾️ <br><br>
