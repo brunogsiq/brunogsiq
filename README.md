@@ -105,6 +105,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=postman"/>
     <br><br>
     <img align="center" src="https://skillicons.dev/icons?i=javascript"/>
+    <img align="center" src="https://skillicons.dev/icons?i=typescript"/>
     <img align="center" src="https://skillicons.dev/icons?i=html"/>
     <img align="center" src="https://skillicons.dev/icons?i=css"/>
     <br><br>
