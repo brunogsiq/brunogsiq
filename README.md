@@ -81,7 +81,7 @@
 👥 Contribuir e disseminar conhecimento através da cooperação mútua de aprendizado, evolução contínua coletiva, #Sempre.
 
 🔗 Conheça mais sobre meu trabalho
-   📁 https://qatrixtecnologia.github.io/ (em construção)
+   📁 https://brunogsiq.github.io/ (em construção)
    📚 https://github.com/brunogsiq
    📥 https://linktr.ee/brunogsiq
 
