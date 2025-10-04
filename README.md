@@ -28,19 +28,19 @@
 
 • Não existe automação sem testes manuais, para ser eficaz, será necessário estar alinhado constantemente com a área de negócio, produto, design e desenvolvimento para garantirmos que os principais fluxos estão protegidos através do fluxo continuo de integração e entregas sem risco
 
-🐞 Atuação como QA<br><br>
+🐞 Atuação como QA<br>
 • Shif-Lefting Testes<br>
 • Elaboração de cenários com BDD (Gherkin)<br>
 • Testes automatizados e manuais<br> 
 • Planejamento, Estimativa, Documentação<br>
 • Execução e Evidenciamento<br>
 • Report e Acompanhamento de bugs<br>
-• Proposição de melhoria contínua<br><br>
+• Proposição de melhoria contínua<br>
 
 🌐 Atuação em diferentes níveis de teste<br>
 • Teste de Integração<br> 
 • Testes de sistemas<br>
-• Testes de aceitação<br><br>
+• Testes de aceitação<br>
 
 🎯 Estratégias de Teste<br>
 • Baseada em requisitos e riscos<br>
@@ -51,7 +51,7 @@
 • Análise de Pareto: 20% x 80%<br>
 • Partição de equivalência: Identificação de classes para identificação de entradas e saídas<br>
 • Valores limites: Identificação de valores limites de borda<br>
-• Pairwise testes: Combinação de entradas para maior cobertura<br><br>
+• Pairwise testes: Combinação de entradas para maior cobertura<br>
 
 🔍 Tipos de Testes<br>
 • Funcionais<br>
@@ -62,7 +62,7 @@
 • Acessibilidade<br>
 
 🛠️ Testes em aplicações Web - Back-End - Mobile<br>
-• Automatizadas e manuais<br><br>
+• Automatizadas e manuais<br>
 
 🌐 Framework de Automação Fron-End e Back-End<br>
 • Cypress.io<br>
@@ -71,22 +71,22 @@
 • Postman<br><br>
 
 💻 Conhecimentos Técnicos em Programação + Marcação e Estilo<br>
-• JavaScript - TypeScript - Markdown - HTML - CSS<br><br>
+• JavaScript - TypeScript - Markdown - HTML - CSS<br>
 
 🛠️ Gerenciamento de Projetos<br>
 • Azure Devops - Jira - Trello<br>
-• Test Plans - Zephyr - QAlity Plus<br><br>
+• Test Plans - Zephyr - QAlity Plus<br>
 
 📚 Outros conhecimentos<br>
 • Versionamento de Códigos com GIT<br>
-• Metodologias ágeis: Scrum e Kanban<br><br>
+• Metodologias ágeis: Scrum e Kanban<br>
 
-👀 Chegou até aqui? <br><br>
+👀 Chegou até aqui? <br>
 
-⚠️Importante, aceita outro ☕?!
+⚠️Importante, aceita outro ☕?!<br>
 
-🔗 Saiba mais
-• https://brunogsiq.github.io/
+🔗 Saiba mais<br>
+• https://brunogsiq.github.io/<br>
 
 🎭 Ei QA, tá precisando de ajuda?<br>
 • Mentoria<br>
@@ -94,7 +94,7 @@
 • Avaliação de Linkedin<br>
 • Avaliação de Currículo<br>
 • Simulação de Entrevista<br>
-• Saiba mais através da page:<br><br>
+• Saiba mais através da page:<br>
 
 https://www.linkedin.com/company/qatrixtecnologia<br><br>
 
