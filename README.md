@@ -28,77 +28,77 @@
 
 • Não existe automação sem testes manuais, para ser eficaz, será necessário estar alinhado constantemente com a área de negócio, produto, design e desenvolvimento para garantirmos que os principais fluxos estão protegidos através do fluxo continuo de integração e entregas sem risco
 
-🐞 Atuação como QA
-• Shif-Lefting Testes
-• Elaboração de cenários com BDD (Gherkin)
-• Testes automatizados e manuais 
-• Planejamento, Estimativa, Documentação
-• Execução e Evidenciamento
-• Report e Acompanhamento de bugs
-• Proposição de melhoria contínua
+🐞 Atuação como QA<br><br>
+• Shif-Lefting Testes<br>
+• Elaboração de cenários com BDD (Gherkin)<br>
+• Testes automatizados e manuais<br> 
+• Planejamento, Estimativa, Documentação<br>
+• Execução e Evidenciamento<br>
+• Report e Acompanhamento de bugs<br>
+• Proposição de melhoria contínua<br><br>
 
-🌐 Atuação em diferentes níveis de teste
-• Teste de Integração 
-• Testes de sistemas
-• Testes de aceitação
+🌐 Atuação em diferentes níveis de teste<br>
+• Teste de Integração<br> 
+• Testes de sistemas<br>
+• Testes de aceitação<br><br>
 
-🎯 Estratégias de Teste
-• Baseada em requisitos e riscos
-• Baseada em testes exploratórios
-• Baseada na pirâmide de testes
+🎯 Estratégias de Teste<br>
+• Baseada em requisitos e riscos<br>
+• Baseada em testes exploratórios<br>
+• Baseada na pirâmide de testes<br>
 
-🔬 Técnicas de Teste
-• Análise de Pareto: 20% x 80%
-• Partição de equivalência: Identificação de classes para identificação de entradas e saídas
-• Valores limites: Identificação de valores limites de borda
-• Pairwise testes: Combinação de entradas para maior cobertura
+🔬 Técnicas de Teste<br>
+• Análise de Pareto: 20% x 80%<br>
+• Partição de equivalência: Identificação de classes para identificação de entradas e saídas<br>
+• Valores limites: Identificação de valores limites de borda<br>
+• Pairwise testes: Combinação de entradas para maior cobertura<br><br>
 
-🔍 Tipos de Testes
-• Funcionais
-• Exploratório
-• Regressão
-• Usabilidade
-• Aceitação
-• Acessibilidade
+🔍 Tipos de Testes<br>
+• Funcionais<br>
+• Exploratório<br>
+• Regressão<br>
+• Usabilidade<br>
+• Aceitação<br>
+• Acessibilidade<br>
 
-🛠️ Testes em aplicações Web - Back-End - Mobile
-• Automatizadas e manuais
+🛠️ Testes em aplicações Web - Back-End - Mobile<br>
+• Automatizadas e manuais<br><br>
 
-🌐 Framework de Automação Fron-End e Back-End
-• Cypress.io 
-• PlayWright
-• Robot Framework
-• Postman
+🌐 Framework de Automação Fron-End e Back-End<br>
+• Cypress.io<br>
+• PlayWright<br>
+• Robot Framework<br>
+• Postman<br><br>
 
-💻 Conhecimentos Técnicos em Programação + Marcação e Estilo
-• JavaScript - TypeScript - Markdown - HTML - CSS
+💻 Conhecimentos Técnicos em Programação + Marcação e Estilo<br>
+• JavaScript - TypeScript - Markdown - HTML - CSS<br><br>
 
-🛠️ Gerenciamento de Projetos
-• Azure Devops - Jira - Trello
-• Test Plans - Zephyr - QAlity Plus
+🛠️ Gerenciamento de Projetos<br>
+• Azure Devops - Jira - Trello<br>
+• Test Plans - Zephyr - QAlity Plus<br><br>
 
-📚 Outros conhecimentos
-• Versionamento de Códigos com GIT
-• Metodologias ágeis: Scrum e Kanban
+📚 Outros conhecimentos<br>
+• Versionamento de Códigos com GIT<br>
+• Metodologias ágeis: Scrum e Kanban<br><br>
 
-👀 Chegou até aqui? 
+👀 Chegou até aqui? <br><br>
 
 ⚠️Importante, aceita outro ☕?!
 
 🔗 Saiba mais
 • https://brunogsiq.github.io/
 
-🎭 Ei QA, tá precisando de ajuda?
-• Mentoria
-• Treinamento
-• Avaliação de Linkedin
-• Avaliação de Currículo
-• Simulação de Entrevista
-• Saiba mais através da page:
+🎭 Ei QA, tá precisando de ajuda?<br>
+• Mentoria<br>
+• Treinamento<br>
+• Avaliação de Linkedin<br>
+• Avaliação de Currículo<br>
+• Simulação de Entrevista<br>
+• Saiba mais através da page:<br><br>
 
-https://www.linkedin.com/company/qatrixtecnologia
+https://www.linkedin.com/company/qatrixtecnologia<br><br>
 
-🍀 Prazer vê-lo aqui e muito obrigado!
+🍀 Prazer vê-lo aqui e muito obrigado!<br><br>
 
 <div align="center">
     <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
