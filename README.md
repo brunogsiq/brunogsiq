@@ -18,84 +18,87 @@
 
 ## <p align="left">  :pushpin:  Conheça-me:
 
-### :arrow_right: Analista de Qualidade e Teste de Software - Q.A. ⬅️
-
 ⚠️ Primeiro, aceita um ☕?!
 
-🐞🎯 Analista de Qualidade e Teste de Software - Q.A.
+• Atuo com foco na prevenção de bugs e conscientização da cultura de qualidade em equipes de ágeis.
 
-🚀 Atuo no foco da prevenção de bugs, é possível evangelizar uma equipe em prol da qualidade. 
+• Acredito que "prevenir é melhor do que reportar", por isso minha atuação é orientada ao shift-left testing, quanto antes iniciarmos, maior a probababilidade de sucesso para o produto
 
-🛠️ Prevenir é melhor do que reportar! Bora testar?!
+• Embasado sobre alguns dos princípios de testes, sempre será preciso reimaginar os teste para garintir que não haverão novas falhas no sistema, lembrando que testar apenas apresenta falhas e não garante sua ausência, com a atuação do QA antecipada, novos investimentos poderão ser realizados
 
-🔧 Dia a Dia como Q.A.
-   🔄 Shif-Lefting Testes
-   🤖 Testes automatizados e manuais 
-   📅 Planejamento, Estimativa, Documentação
-   🧪 Execução e Evidenciamento
-   ✍️ Testes com BDD
-   🐞 Report e Acompanhamento de bugs
-   🔍 Proposição de melhoria contínua
+• Não existe automação sem testes manuais, para ser eficaz, será necessário estar alinhado constantemente com a área de negócio, produto, design e desenvolvimento para garantirmos que os principais fluxos estão protegidos através do fluxo continuo de integração e entregas sem risco
 
-🔬 Técnicas de Testes:
-   ⚫ Teste de Caixa Preta
-   🔍 Testes Funcionais e Exploratórios
-   🔙 Testes de Regressão
-   👁️ Testes de Usabilidade
-   🌐 Testes Front, Back, APK 
+🐞 Atuação como QA
+• Shif-Lefting Testes
+• Elaboração de cenários com BDD (Gherkin)
+• Testes automatizados e manuais 
+• Planejamento, Estimativa, Documentação
+• Execução e Evidenciamento
+• Report e Acompanhamento de bugs
+• Proposição de melhoria contínua
 
-🌐 Framework FronEnd:
-   🌲 Cypress.io
-   🎭 PlayWright
-   🥒 Cucumber
-   🤖 Robot Framework
+🌐 Atuação em diferentes níveis de teste
+• Teste de Integração 
+• Testes de sistemas
+• Testes de aceitação
 
-🔙 Framework BackEnd - API:
-   📬 Postman
-   📄 Swagger
+🎯 Estratégias de Teste
+• Baseada em requisitos e riscos
+• Baseada em testes exploratórios
+• Baseada na pirâmide de testes
 
-💻 Programação:
-   📜 JavaScript - HTML - CSS - Python - C - POO
+🔬 Técnicas de Teste
+• Análise de Pareto: 20% x 80%
+• Partição de equivalência: Identificação de classes para identificação de entradas e saídas
+• Valores limites: Identificação de valores limites de borda
+• Pairwise testes: Combinação de entradas para maior cobertura
 
-🛠️ Gerenciamento de Projetos:
-   🌐 Azure Devops - Jira - Trello
-   📷 Test Plans - Zephyr - QAlity Plus
+🔍 Tipos de Testes
+• Funcionais
+• Exploratório
+• Regressão
+• Usabilidade
+• Aceitação
+• Acessibilidade
 
-📚 Versionamento de Códigos
+🛠️ Testes em aplicações Web - Back-End - Mobile
+• Automatizadas e manuais
 
-⚙️ Metodologias ágeis:
-   🏃 Scrum Framework e Kanban
+🌐 Framework de Automação Fron-End e Back-End
+• Cypress.io 
+• PlayWright
+• Robot Framework
+• Postman
 
-👀 Chegou até aqui? PONTO para mim, continue!
+💻 Conhecimentos Técnicos em Programação + Marcação e Estilo
+• JavaScript - TypeScript - Markdown - HTML - CSS
 
-🎭 Soft Skill:
-   🤝 Trabalho em equipe
-   💬 Comunicação assertiva
-   🎨 Criatividade e Curioso
-   🔍 Atencioso aos detalhes
-   📚 Didático, Adaptável e Pró-ativo
-   📊 Habilidades analíticas
-   🖥️ Habilidades de apresentação
-   👥 Qualidade com foco no usuário
+🛠️ Gerenciamento de Projetos
+• Azure Devops - Jira - Trello
+• Test Plans - Zephyr - QAlity Plus
 
-👥 Contribuir e disseminar conhecimento através da cooperação mútua de aprendizado, evolução contínua coletiva, #Sempre.
+📚 Outros conhecimentos
+• Versionamento de Códigos com GIT
+• Metodologias ágeis: Scrum e Kanban
 
-🔗 Conheça mais sobre meu trabalho
-   📁 https://brunogsiq.github.io/ (em construção)
-   📚 https://github.com/brunogsiq
-   📥 https://linktr.ee/brunogsiq
-
-♾️ “Mente criativa em expansão com foco em automação” ♾️
-
-📢 Que tal conversarmos sobre como posso agregar valor à sua empresa?
-
-🍀 Sucesso a nós!
+👀 Chegou até aqui? 
 
 ⚠️Importante, aceita outro ☕?!
 
-👋 Prazer vê-lo aqui, até breve e muito obrigado! 
+🔗 Saiba mais
+• https://brunogsiq.github.io/
 
-☕🤓💻🔍🐞
+🎭 Ei QA, tá precisando de ajuda?
+• Mentoria
+• Treinamento
+• Avaliação de Linkedin
+• Avaliação de Currículo
+• Simulação de Entrevista
+• Saiba mais através da page:
+
+https://www.linkedin.com/company/qatrixtecnologia
+
+🍀 Prazer vê-lo aqui e muito obrigado!
 
 <div align="center">
     <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
