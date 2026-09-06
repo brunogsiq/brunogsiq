@@ -133,3 +133,6 @@ https://www.linkedin.com/company/qatrixtecnologia<br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 <!--**brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
+
+
+Mensagem teste - Deverá ser apagada após documentação completa
