@@ -8,7 +8,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/brunogsiq/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/brunogsiq/"/>
     <a href="https://github.com/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://github.com/brunogsiq/brunogsiq.github.io]"/> 
-    <a href="https://linktr.ee/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://linktr.ee/brunogsiq]"/><br><br>
+    <br><br>
 
 ## <p align="left"> :pushpin: Objetivo:
 -  Compartilhar projetos de estudos e lhe ajudar. 
@@ -123,16 +123,13 @@ https://www.linkedin.com/company/qatrixtecnologia<br><br>
 
 <div align="center">
     <a href="https://github.com/brunogsiq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br><br>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"/>
+    </a>
 </div><br>
 
 <div align="center">
-
-![BrunoGSiq](https://user-images.githubusercontent.com/115048441/195968285-b880d8a9-fa29-4217-912d-8ecddbbb7b1d.png)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+</div>
 
 <!--**brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
-
-
-Mensagem teste - Deverá ser apagada após documentação completa
