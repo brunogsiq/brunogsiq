@@ -1,135 +1,172 @@
+<div align="center">
+    <img
+        src="./png/Banner%20Cartão%20Logotipo%20-%20verso.png"
+        alt="QAtrix Tecnologia — Soluções Digitais"
+        width="100%"
+    />
 
-# <p align="center">⚠️ Bem-vindo(a) ☕🤓💻🔎 ⚠️
+    <h1>Bruno Siqueira | QA Engineer</h1>
 
-### <p align="center">♾️ **“Mente criativa em expansão com foco em automação”** ♾️ <br><br>
+    <p>
+        <strong>Qualidade de software, prevenção de falhas e automação de testes.</strong>
+    </p>
 
-#### <p align="center">Vamos nos conectar? Será um prazer tê-lo em minha rede!<br><br>
+    <p>
+        Ajudo equipes a antecipar riscos, proteger fluxos críticos e entregar produtos digitais com mais confiança.
+    </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/brunogsiq/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/brunogsiq/"/>
-    <a href="https://github.com/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://github.com/brunogsiq/brunogsiq.github.io]"/> 
-    <br><br>
+    <a href="https://www.linkedin.com/in/brunogsiq/">
+        <img
+            src="https://img.shields.io/badge/LinkedIn-6610F2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Perfil de Bruno Siqueira no LinkedIn"
+        />
+    </a>
+    <a href="https://brunogsiq.github.io/">
+        <img
+            src="https://img.shields.io/badge/Portfólio-6610F2?style=for-the-badge&logo=githubpages&logoColor=white"
+            alt="Portfólio profissional de Bruno Siqueira"
+        />
+    </a>
+    <a href="https://www.linkedin.com/company/qatrixtecnologia/">
+        <img
+            src="https://img.shields.io/badge/QAtrix_Tecnologia-6610F2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="QAtrix Tecnologia no LinkedIn"
+        />
+    </a>
+</div>
 
-## <p align="left"> :pushpin: Objetivo:
--  Compartilhar projetos de estudos e lhe ajudar. 
--  Fique a vontade para realizar clones e propor melhorias.
--  Toda contribuição é bem vinda.
--  Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
+---
 
-## <p align="left">  :pushpin:  Conheça-me:
+## Como posso contribuir
 
-⚠️ Primeiro, aceita um ☕?!
+- Antecipação de riscos por meio de práticas de **Shift-Left Testing**.
+- Planejamento de testes orientado aos fluxos mais importantes do negócio.
+- Criação e manutenção de testes automatizados para aplicações Web, APIs e Mobile.
+- Elaboração de cenários com **BDD e Gherkin**, facilitando o entendimento entre áreas técnicas e de negócio.
+- Apoio à integração contínua para entregas mais seguras e previsíveis.
+- Disseminação da cultura de qualidade entre Produto, Design, Desenvolvimento e Negócio.
 
-• Atuo com foco na prevenção de bugs e conscientização da cultura de qualidade em equipes de ágeis.
+> A qualidade não começa na execução dos testes. Ela começa quando riscos, requisitos e expectativas passam a ser discutidos por toda a equipe.
 
-• Acredito que "prevenir é melhor do que reportar", por isso minha atuação é orientada ao shift-left testing, quanto antes iniciarmos, maior a probababilidade de sucesso para o produto
+## Áreas de atuação
 
-• Embasado sobre alguns dos princípios de testes, sempre será preciso reimaginar os teste para garintir que não haverão novas falhas no sistema, lembrando que testar apenas apresenta falhas e não garante sua ausência, com a atuação do QA antecipada, novos investimentos poderão ser realizados
+### Estratégia e qualidade
 
-• Não existe automação sem testes manuais, para ser eficaz, será necessário estar alinhado constantemente com a área de negócio, produto, design e desenvolvimento para garantirmos que os principais fluxos estão protegidos através do fluxo continuo de integração e entregas sem risco
+- Planejamento, estimativa e documentação de testes.
+- Análise de requisitos, riscos e critérios de aceitação.
+- Testes funcionais, exploratórios, de regressão, usabilidade, acessibilidade e aceitação.
+- Execução, evidenciamento, reporte e acompanhamento de defeitos.
+- Proposição de melhorias contínuas no processo de desenvolvimento.
 
-🐞 Atuação como QA<br>
-• Shif-Lefting Testes<br>
-• Elaboração de cenários com BDD (Gherkin)<br>
-• Testes automatizados e manuais<br> 
-• Planejamento, Estimativa, Documentação<br>
-• Execução e Evidenciamento<br>
-• Report e Acompanhamento de bugs<br>
-• Proposição de melhoria contínua<br>
+### Automação de testes
 
-🌐 Atuação em diferentes níveis de teste<br>
-• Teste de Integração<br> 
-• Testes de sistemas<br>
-• Testes de aceitação<br>
+- Automação Front-End e Back-End.
+- Testes de integração, sistema e aceitação.
+- Desenvolvimento de cenários reutilizáveis e sustentáveis.
+- Proteção de jornadas críticas em pipelines de integração e entrega contínuas.
 
-🎯 Estratégias de Teste<br>
-• Baseada em requisitos e riscos<br>
-• Baseada em testes exploratórios<br>
-• Baseada na pirâmide de testes<br>
+### Técnicas aplicadas
 
-🔬 Técnicas de Teste<br>
-• Análise de Pareto: 20% x 80%<br>
-• Partição de equivalência: Identificação de classes para identificação de entradas e saídas<br>
-• Valores limites: Identificação de valores limites de borda<br>
-• Pairwise testes: Combinação de entradas para maior cobertura<br>
+- Partição de equivalência e análise de valores-limite.
+- Testes combinatórios com Pairwise.
+- Priorização baseada em requisitos e riscos.
+- Testes exploratórios e análise de Pareto.
+- Estratégias baseadas na pirâmide de testes.
 
-🔍 Tipos de Testes<br>
-• Funcionais<br>
-• Exploratório<br>
-• Regressão<br>
-• Usabilidade<br>
-• Aceitação<br>
-• Acessibilidade<br>
-
-🛠️ Testes em aplicações Web - Back-End - Mobile<br>
-• Automatizadas e manuais<br>
-
-🌐 Framework de Automação Fron-End e Back-End<br>
-• Cypress.io<br>
-• PlayWright<br>
-• Robot Framework<br>
-• Postman<br><br>
-
-💻 Conhecimentos Técnicos em Programação + Marcação e Estilo<br>
-• JavaScript - TypeScript - Markdown - HTML - CSS<br>
-
-🛠️ Gerenciamento de Projetos<br>
-• Azure Devops - Jira - Trello<br>
-• Test Plans - Zephyr - QAlity Plus<br>
-
-📚 Outros conhecimentos<br>
-• Versionamento de Códigos com GIT<br>
-• Metodologias ágeis: Scrum e Kanban<br>
-
-👀 Chegou até aqui? <br>
-
-⚠️Importante, aceita outro ☕?!<br>
-
-🔗 Saiba mais<br>
-• https://brunogsiq.github.io/<br>
-
-🎭 Ei QA, tá precisando de ajuda?<br>
-• Mentoria<br>
-• Treinamento<br>
-• Avaliação de Linkedin<br>
-• Avaliação de Currículo<br>
-• Simulação de Entrevista<br>
-• Saiba mais através da page:<br>
-
-https://www.linkedin.com/company/qatrixtecnologia<br><br>
-
-🍀 Prazer vê-lo aqui e muito obrigado!<br><br>
+## Tecnologias e ferramentas
 
 <div align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
-    <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png"/>
-    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png"/>
-    <img align="center" src="https://skillicons.dev/icons?i=gherkin"/>
-    <img align="center" src="https://skillicons.dev/icons?i=postman"/>
+    <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
+    <img
+        src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png"
+        alt="Playwright"
+        width="48"
+        height="48"
+    />
+    <img
+        src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png"
+        alt="Robot Framework"
+        width="48"
+        height="48"
+    />
+    <img src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
     <br><br>
-    <img align="center" src="https://skillicons.dev/icons?i=javascript"/>
-    <img align="center" src="https://skillicons.dev/icons?i=typescript"/>
-    <img align="center" src="https://skillicons.dev/icons?i=html"/>
-    <img align="center" src="https://skillicons.dev/icons?i=css"/>
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
     <br><br>
-    <img align="center" src="https://skillicons.dev/icons?i=git"/>
-    <img align="center" src="https://skillicons.dev/icons?i=github"/>
-    <img align="center" src="https://skillicons.dev/icons?i=bitbucket"/>
-    <br><br>
-    <img align="center" src="https://skillicons.dev/icons?i=azure"/>
-    <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"/>
-    <br><br>
-</div><br>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" />
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps" />
+</div>
+
+## Portfólio técnico
+
+Meus repositórios registram estudos, experimentos e projetos relacionados a:
+
+- Automação de testes com Cypress, Playwright e Robot Framework.
+- Testes de APIs com Postman.
+- Qualidade aplicada a produtos Web e Mobile.
+- Integração contínua e práticas de DevOps.
+- Documentação, estratégia e gestão de testes.
+
+Você pode conhecer os projetos disponíveis em [github.com/brunogsiq?tab=repositories](https://github.com/brunogsiq?tab=repositories).
+
+## Serviços e colaboração
+
+Além da atuação em projetos de qualidade, também posso contribuir com:
+
+- Mentoria para profissionais de QA.
+- Treinamentos sobre testes e qualidade de software.
+- Avaliação de perfil no LinkedIn e currículo profissional.
+- Simulação e preparação para entrevistas.
+- Apoio na definição de estratégias e automação de testes.
+
+Para conhecer esse trabalho, visite a [QAtrix Tecnologia](https://www.linkedin.com/company/qatrixtecnologia/).
+
+## Estatísticas no GitHub
 
 <div align="center">
     <a href="https://github.com/brunogsiq">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br><br>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"/>
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"
+            alt="Estatísticas do perfil de Bruno Siqueira no GitHub"
+            height="180"
+        />
+        <br><br>
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"
+            alt="Linguagens mais utilizadas nos repositórios de Bruno Siqueira"
+            height="180"
+        />
     </a>
-</div><br>
-
-<div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 </div>
 
-<!--**brunogsiq** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em meu perfil do GitHub.
+## Vamos conversar?
+
+<div align="center">
+    <img
+        src="./png/Logotipo%20Grande.png"
+        alt="Logotipo da QAtrix Tecnologia"
+        width="180"
+    />
+
+    <p>
+        Se você busca fortalecer a qualidade do seu produto, antecipar riscos ou estruturar uma estratégia de automação, será um prazer conversar.
+    </p>
+
+    <p>
+        <a href="https://www.linkedin.com/in/brunogsiq/"><strong>Entre em contato pelo LinkedIn</strong></a>
+    </p>
+</div>
+
+<div align="center">
+    <img
+        src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"
+        alt="Elemento visual de encerramento"
+        width="100%"
+    />
+</div>
