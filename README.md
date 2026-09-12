@@ -33,7 +33,7 @@
 
 ---
 
-## Como posso contribuir
+## 🎯 Como posso contribuir
 
 - Antecipação de riscos por meio de práticas de **Shift-Left Testing**.
 - Planejamento de testes orientado aos fluxos mais importantes do negócio.
@@ -44,7 +44,7 @@
 
 > A qualidade não começa na execução dos testes. Ela começa quando riscos, requisitos e expectativas passam a ser discutidos por toda a equipe.
 
-## Perfil profissional
+## 👤 Perfil profissional
 
 - Mente criativa em expansão, com foco em qualidade e automação.
 - Atuação orientada à prevenção de falhas e à disseminação da cultura de qualidade.
@@ -55,7 +55,7 @@
 
 Minha atuação parte do princípio de que prevenir é melhor do que apenas reportar. Por isso, procuro participar desde as etapas iniciais, contribuindo para que decisões de produto e tecnologia considerem a qualidade antes que as falhas cheguem ao usuário.
 
-## Áreas de atuação
+## 🧪 Áreas de atuação
 
 ### Estratégia e qualidade
 
@@ -80,7 +80,7 @@ Minha atuação parte do princípio de que prevenir é melhor do que apenas repo
 - Testes exploratórios e análise de Pareto.
 - Estratégias baseadas na pirâmide de testes.
 
-## Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
@@ -110,8 +110,9 @@ Minha atuação parte do princípio de que prevenir é melhor do que apenas repo
     <img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps" />
 </div>
 
-### Conhecimentos técnicos
+### 📚 Conhecimentos técnicos
 
+- **Testes manuais:** planejamento, elaboração e execução de cenários, evidenciamento e reporte de defeitos.
 - **Automação:** Cypress, Playwright, Robot Framework e Postman.
 - **Programação, marcação e estilo:** JavaScript, TypeScript, Markdown, HTML e CSS.
 - **Versionamento:** Git, GitHub e Bitbucket.
@@ -120,7 +121,9 @@ Minha atuação parte do princípio de que prevenir é melhor do que apenas repo
 - **Metodologias ágeis:** Scrum e Kanban.
 - **Documentação de testes:** BDD, Gherkin, planejamento, estimativas, evidências e reporte de defeitos.
 
-## Portfólio técnico
+Testes manuais e automatizados são estratégias complementares para reduzir riscos e ampliar a cobertura de qualidade.
+
+## 🚀 Portfólio técnico
 
 Meus repositórios registram estudos, experimentos e projetos relacionados a:
 
@@ -132,7 +135,14 @@ Meus repositórios registram estudos, experimentos e projetos relacionados a:
 
 Você pode conhecer os projetos disponíveis em [github.com/brunogsiq?tab=repositories](https://github.com/brunogsiq?tab=repositories).
 
-## Serviços e colaboração
+### 🌐 Projetos publicados
+
+- [Parece Outra Casa](https://pareceoutracasa.vercel.app/)
+- [JRVC Serviços Técnicos](https://jrvcservicostecnicos.vercel.app/)
+- [Rodrigo Narciso — Endocrinologia](https://rodrigonarcisoendocrino.vercel.app/)
+- [Binário Fighter](https://binariofighter.vercel.app/)
+
+## 🤝 Serviços e colaboração
 
 Além da atuação em projetos de qualidade, também posso contribuir com:
 
@@ -144,7 +154,7 @@ Além da atuação em projetos de qualidade, também posso contribuir com:
 
 Para conhecer esse trabalho, visite a [QAtrix Tecnologia](https://www.linkedin.com/company/qatrixtecnologia/).
 
-## Estatísticas no GitHub
+## 📊 Estatísticas no GitHub
 
 <div align="center">
     <a href="https://github.com/brunogsiq">
@@ -162,7 +172,7 @@ Para conhecer esse trabalho, visite a [QAtrix Tecnologia](https://www.linkedin.c
     </a>
 </div>
 
-## Vamos conversar?
+## 💬 Vamos conversar?
 
 <div align="center">
     <img
