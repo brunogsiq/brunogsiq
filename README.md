@@ -1,27 +1,23 @@
 <div align="center">
     <img
-        src="./png/Banner%20Cartão%20Logotipo%20-%20verso.png"
-        alt="QAtrix Tecnologia — Soluções Digitais"
+        src="./png/Banner%20Cartão%20de%20visita%20-%20frente.png"
+        alt="Cartão de contato de Bruno Siqueira"
         width="100%"
     />
-
     <h1>Bruno Siqueira | QA Engineer</h1>
-
     <p>
         <strong>Qualidade de software, prevenção de falhas e automação de testes.</strong>
     </p>
-
     <p>
         Ajudo equipes a antecipar riscos, proteger fluxos críticos e entregar produtos digitais com mais confiança.
     </p>
-
     <a href="https://www.linkedin.com/in/brunogsiq/">
         <img
             src="https://img.shields.io/badge/LinkedIn-6610F2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Perfil de Bruno Siqueira no LinkedIn"
         />
     </a>
-    <a href="https://brunogsiq.github.io/">
+    <a href="https://brunogsiq.vercel.app/">
         <img
             src="https://img.shields.io/badge/Portfólio-6610F2?style=for-the-badge&logo=githubpages&logoColor=white"
             alt="Portfólio profissional de Bruno Siqueira"
@@ -47,6 +43,17 @@
 - Disseminação da cultura de qualidade entre Produto, Design, Desenvolvimento e Negócio.
 
 > A qualidade não começa na execução dos testes. Ela começa quando riscos, requisitos e expectativas passam a ser discutidos por toda a equipe.
+
+## Perfil profissional
+
+- Mente criativa em expansão, com foco em qualidade e automação.
+- Atuação orientada à prevenção de falhas e à disseminação da cultura de qualidade.
+- Visão analítica para identificar riscos, questionar requisitos e proteger a experiência do usuário.
+- Comunicação colaborativa entre as áreas de Negócio, Produto, Design e Desenvolvimento.
+- Organização para planejar, documentar, evidenciar e acompanhar testes e defeitos.
+- Aprendizado contínuo e abertura para reimaginar estratégias conforme o produto evolui.
+
+Minha atuação parte do princípio de que prevenir é melhor do que apenas reportar. Por isso, procuro participar desde as etapas iniciais, contribuindo para que decisões de produto e tecnologia considerem a qualidade antes que as falhas cheguem ao usuário.
 
 ## Áreas de atuação
 
@@ -103,6 +110,16 @@
     <img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps" />
 </div>
 
+### Conhecimentos técnicos
+
+- **Automação:** Cypress, Playwright, Robot Framework e Postman.
+- **Programação, marcação e estilo:** JavaScript, TypeScript, Markdown, HTML e CSS.
+- **Versionamento:** Git, GitHub e Bitbucket.
+- **Gerenciamento de projetos:** Azure DevOps, Jira e Trello.
+- **Gestão de testes:** Azure Test Plans, Zephyr e QAlity Plus.
+- **Metodologias ágeis:** Scrum e Kanban.
+- **Documentação de testes:** BDD, Gherkin, planejamento, estimativas, evidências e reporte de defeitos.
+
 ## Portfólio técnico
 
 Meus repositórios registram estudos, experimentos e projetos relacionados a:
@@ -132,13 +149,13 @@ Para conhecer esse trabalho, visite a [QAtrix Tecnologia](https://www.linkedin.c
 <div align="center">
     <a href="https://github.com/brunogsiq">
         <img
-            src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"
+            src="https://github-stats-extended.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"
             alt="Estatísticas do perfil de Bruno Siqueira no GitHub"
             height="180"
         />
         <br><br>
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"
+            src="https://github-stats-extended.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"
             alt="Linguagens mais utilizadas nos repositórios de Bruno Siqueira"
             height="180"
         />
@@ -149,15 +166,13 @@ Para conhecer esse trabalho, visite a [QAtrix Tecnologia](https://www.linkedin.c
 
 <div align="center">
     <img
-        src="./png/Logotipo%20Grande.png"
-        alt="Logotipo da QAtrix Tecnologia"
-        width="180"
+        src="./png/Banner%20Cartão%20Logotipo%20-%20verso.png"
+        alt="QAtrix Tecnologia — Soluções Digitais"
+        width="100%"
     />
-
     <p>
         Se você busca fortalecer a qualidade do seu produto, antecipar riscos ou estruturar uma estratégia de automação, será um prazer conversar.
     </p>
-
     <p>
         <a href="https://www.linkedin.com/in/brunogsiq/"><strong>Entre em contato pelo LinkedIn</strong></a>
     </p>
